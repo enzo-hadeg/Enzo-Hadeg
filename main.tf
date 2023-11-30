@@ -1,5 +1,5 @@
 provider "github" {
-  token = "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"
+  token = "ma clé(je sais pas si je peux la partager?)"
 }
 resource "github_repository" "mon_repo" {
   name        = "nom_du_repo"
